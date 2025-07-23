@@ -1,0 +1,5 @@
+{
+  "name": "AI Statement Reconciler",
+  "description": "An intelligent application to reconcile Tally and bank statements effortlessly. Upload your documents in Excel, PDF, or image format, and let AI do the work.",
+  "requestFramePermissions": []
+}
